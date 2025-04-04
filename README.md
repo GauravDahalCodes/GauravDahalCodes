@@ -50,12 +50,6 @@ Here are some of the technologies and tools I work with:
 ---
 
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaurabdahal&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurabdahal&theme=radical" alt="GitHub Streak">
-</p>
-
 ---
 
 ### 🎨 Let's Connect!  
